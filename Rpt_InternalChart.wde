@@ -1,0 +1,134 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Rpt_InternalChart
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x5ec508652db3c0be
+ internal_properties : CAAAAAgAAAB7C/E0zmLQgghHAPZtnSrnb65vfIktgKHDccTQw8AAXBmBEah0Su2QW3xKHm8awYfbhWkXzRNLqW8ZmL+6NEfL0l+IGo/lwqvQGNy7c/fmIo7aaCvXDq+avnNKQu9gBNAiNqiMHXYsFZ4yZs9lQHcZpD4BibNhK3irVFeMut46jHwgOXvNfGxrq56q34A99/83dbdrT2K+UIctgDyQPjwdxftnnLagfJLpNIcGvs0fxtsYXLJ+pkHjp8pfSPPwfVUaQty83odIH3SEWb56HE6bBaaXD+VIf9KY/bbL6mrgi8C4GwsPx8J3oqe1x/zMkGrG4U2YEk+KtuiJ/WNX27fHJ0noiCYp4p2p9R0fccTnignK+O54mayEGBU8raBhEe+fLwVQKanmWBTNB3sY+vAADlIr1yQQKwaT6LtI3OsIDVrcTwUsw4ZB9VxDEWAanJU64M/wr/BWBg4O5bDsi8T8m4vSa+vDJqo4U7t9BCawjMkjyob+VkxP/mfRRotOElhbBDtjAfSqBYJ83SeGkTN8YNjMZJG0TIBd+/juuckw3KjdZ1CY9N4ziSi6WGVPO4Eaw/AiD8BPw8+/AeypkRph/zDNmQbiONDTyUJnEo6wKwl7g1lHNmDijCzfCTOZP2gQU3yyYfD22tsXBjj32cQjWn4dnyUeSKIu6OS6VoDL0KKNVo8TEcZYKAknnY39ZtFaONq26X3dvY+V3Im4uYDZENKeQdrVTEqinJSgRBx2i5K7UpxOa1PKfxEDgpF0DXo9JHPK0Sz2Xpdwfz/TEizhIEKTS2bxLb3I9yWmzw7ff5BwQjcDvqWcsS00iM26uaTAwQq1GOBxmYuv5TYdJLzxRwMxT3AvTg5PB8bDwtJmGWj1OaLB2JM50w==
+ languages :
+  - en-GB
+ blocks :
+  -
+    name : BODY
+    identifier : 0x5ec508652db4c0be
+    internal_properties : CAAAAAgAAABpsNM1UrdD4SXOgGBpj5gUha2311oIAxFnIkrF4PwXGvD6IQwiUAeLrEvCOlDR4sJ8UvM1FUA5+3NjWzyUsiRR00PSl3P0W33Ic9scwgVI38YcS8JdQYBYYtbusaowVFLAeeaiIVuEOBxkEfSw9XG/WUBlbhJJMSNANPYDgepiaB65fpfiAyeej2HxjnieVrs0C0cdSjONZInI6wZTx7TxhhHgwIj/QCEe7StxXEyTGqfWhRyWfrGnHVAvGpvDLggKcutNjA0zsQfbVg2yxH4=
+    controls :
+     -
+       name : SalesGraph
+       identifier : 0x5ec508652db5c0be
+       internal_properties : CAAAAAgAAAD0g4Kchbf2JgGO89HbylcMZ+zZ9cbWFiHETBtK6TLrUCi6nf+Vbww3UPyWIPh+jI8w9nDEOPup40pP8J9n3d8thzuHP8jzsL75aO+DAXvbtwZheB92RXJNw9C7qFE9VPpWOs9SL8L2Qyju97tPvUud0MrNtcJbCYnoUEsP9iaZt8Ryq6QwEZ3D+tJJvMvj1JITCvzGABmnZDYXMQOtDRmrQSsA6VLfTZEt0U10UKrjL1CthUJtyRJEwPQEPzsTiIInd7vC6q2LqBS7k5jYSIaPeNLrbAFIWSpeeeQdURb9CoFDtcX34RV9ZxiokMge6IoxPRzqdlvE8SMoQa5CnOdSjVeW/sL4uAXTDbfnnVXkfp9tGCIU8cB/EihyZi4vVe8yp2/LPOMQXVo8JDsSefzNIO18TBkGh+Pnga8BRrzQ2d0hyiXUE8RMWs2pLVGCgBJ3dUTTMQRNAIJULrFv509CuxOq3EskUyudNZGtBC+vSvr4HRthEW4jkeZiO1PbDy7Xb3mRje+/tiBSJdJxEFpk6ECZL0mDd+emCIbJdDZLPyWMlM8uTs4GuxDqD1JJgbdq1hnspHtgRC74bE7h9v54wiF7JJtEtwgx2V5Cz8v1tylcDD7XaFIy/pO7V/pEyLLIObJIlejdXkRfBhBnU2tRJ07uPsXz+usqhlwKrYOSmmrMh7uwdJa3T6NBmfXu1zc7qthUq7QVihM0WYSwCbFTz9rJrIpqJBRZsZtdvOY9/sE3V4YsTpkXfngqlx0wOEXfiQYAFA/p8p0H2vr7eTXK8pxJY/0pZXwE8kwl2Y3LC5irg2t3ItNcB/hJM3NfqzXxvSGjLWU1Dz3L6tHC3piMDaAqrZ2APriCFYn3qEO1DZke54w2olAqnMCExbIT0C2iMIBSbUPlir61mRNgKTAqErseboiF2BAL4zn1OWQVjDXgmrTj/qH31gjErj99P6MHpouWGF160E0qIbwW+QyUgWCzLVsQB5Jx08I7ZflF06Jp3MHWz+49pX1PNIGlp4fItKGEV72FRZtH2sC5gRyOVWX4DlQEvbY99k6aJo9Ey24oMdv/uwC7AF6Sx3N3jacudErSQzuWm7X0uc928sTZD+my49IVt462w8dalT4=
+       properties :
+        x : 6.61
+        width : 156.78
+        height : 89.44
+       code_elements :
+        type_code : 29
+        p_codes :
+         -
+           code : |1-
+            
+           type : 327694
+         -
+           code : |1-
+            
+           type : 327692
+    properties :
+     width : 170.
+     height : 89.44
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        code : |1-
+         
+        type : 327694
+      -
+        code : |1-
+         // Initialize the chart
+         InitializeGraph()
+        type : 327692
+      -
+        code : |1-
+         
+        type : 327693
+      -
+        type : 327697
+        enabled : false
+ controls : []
+ code_elements :
+  type_code : 13
+  p_codes :
+   -
+     code : |1-
+      
+     type : 327680
+   -
+     code : |1-
+      
+     type : 327695
+   -
+     code : |1-
+      
+     type : 327696
+   -
+     code : |1-
+      
+     type : 327682
+  procedures :
+   -
+     name : InitializeGraph
+     procedure_id : 2217187621471109310
+     type_code : 14
+     code : |1-
+      procedure InitializeGraph()
+      
+      	nIndex 	is int = 1
+      	sCondition	is string = ""
+      
+      // Specify a spacing between the categories of the bar chart
+      grColumnSpacing(SalesGraph, 10)
+      
+      // Modify the direction of the chart
+      grOrientation(SalesGraph, grYCoordinate, grAtRight, grAtTop)
+      
+      // Define the mark
+      grGraduate(SalesGraph, 7000, grYCoordinate)
+      
+      // Read the first record
+      HReadFirst(QRY_CATEGORY)
+      
+      while not HOut()
+      	// Add data to the chart
+      	grAddData(SalesGraph, 1, nIndex,QRY_CATEGORY.TotalIOT)
+      
+      	grCategoryLabel(SalesGraph, nIndex, QRY_CATEGORY.ProdDesc + <§$0000§> + QRY_CATEGORY.OrderLineID)
+      	grLabel(SalesGraph, grShowValue, True)
+      	
+      	// Read the next record
+      	HReadNext(QRY_CATEGORY)
+      
+      	// Increment the browse subscript
+      	nIndex++
+      end
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Etat_GrapheInterne
+resources :
+ string_res :
+  identifier : 0x3c85e19237231314
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : " Line N°  "
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
